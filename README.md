@@ -1,0 +1,2 @@
+# -Decentralized-Secure-File-Sharing-Using-Hybrid-Encryption
+This project is a secure file-sharing web application built using the MERN stack (MongoDB, Express, React, Node.js) that implements hybrid encryption to ensure data confidentiality and integrity. The system combines AES (symmetric encryption) for encrypting files and RSA (asymmetric encryption) for securely exchanging the AES key between users.
